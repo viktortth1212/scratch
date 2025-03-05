@@ -1,2 +1,2 @@
 # scratch
-Jumping game
+Dínóval ugrálni lehet.
