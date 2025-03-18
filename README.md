@@ -1,4 +1,4 @@
 # scratch
-Dínóval ugrálni lehet.
-https://scratch.mit.edu/projects/1139994085
-![Képernyőkép 2025-03-05 130523](https://github.com/user-attachments/assets/c7373806-27dd-4a48-b588-0ae8fe726ffc)
+Pillangóval lehet össze szedni a meggyet. A nyilakkal lehet irányítani a pillangót és a space-vel lehet a tálba beledobni.
+![Képernyőkép 2025-03-18 132147](https://github.com/user-attachments/assets/c3b3b013-3428-40ab-b1db-060ccee48c9a)
+
